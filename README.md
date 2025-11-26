@@ -1,4 +1,4 @@
-# Zen browser loading bar in Zen style
+# Zen browser simple loading bar in centered style
 
 
-Mod for Zen Browser that makes loading bar in Zen Browser style
+Mod for Zen Browser that makes loading bar in centered style
